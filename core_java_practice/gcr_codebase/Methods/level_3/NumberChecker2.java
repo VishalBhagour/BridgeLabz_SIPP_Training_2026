@@ -1,6 +1,6 @@
 package core_java_practice.gcr_codebase.Methods.level_3;
 
-import java.util.Scanner;
+import java.util.*;
 
 
 public class NumberChecker2 {
