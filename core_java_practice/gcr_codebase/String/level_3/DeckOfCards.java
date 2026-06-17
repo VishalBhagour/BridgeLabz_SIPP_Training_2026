@@ -1,4 +1,5 @@
-    import java.util.Scanner;
+package core_java_practice.gcr_codebase.String.level_3;
+import java.util.Scanner;
 
 public class DeckOfCards {
 
