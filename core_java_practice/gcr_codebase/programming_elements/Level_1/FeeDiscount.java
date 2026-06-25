@@ -1,5 +1,6 @@
 package core_java_practice.gcr_codebase.programming_elements.Level_1;
 
+import java.util.*;
 public class FeeDiscount {
         public static void main(String[] args) {
         double fee = 125000;
