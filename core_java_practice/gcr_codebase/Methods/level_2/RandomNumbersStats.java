@@ -1,6 +1,7 @@
 package core_java_practice.gcr_codebase.Methods.level_2;
 
-import java.util.Arrays;
+import java.util.*;
+
 
 public class RandomNumbersStats {
 
