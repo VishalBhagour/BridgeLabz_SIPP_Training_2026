@@ -1,5 +1,6 @@
 package core_java_practice.gcr_codebase.Methods.scenario_based;
 
+import java.util.Scanner;
 public class DeliveryChargeSystem {
 
     
