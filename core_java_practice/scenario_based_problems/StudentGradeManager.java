@@ -1,5 +1,5 @@
 package core_java_practice.scenario_based_problems;
-
+import java.util.*;
 public class StudentGradeManager {
 
     static String[] names = new String[100];

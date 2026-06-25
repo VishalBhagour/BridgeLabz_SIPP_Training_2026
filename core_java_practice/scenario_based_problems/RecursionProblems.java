@@ -1,6 +1,5 @@
 package core_java_practice.scenario_based_problems;
-
-import java.util.Scanner;
+import java.util.*;
 
 public class RecursionProblems {
 

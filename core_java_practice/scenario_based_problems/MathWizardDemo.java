@@ -1,5 +1,5 @@
 package core_java_practice.scenario_based_problems;
-
+import java.util.Scanner;
 class MathWizard {
 
     // Instance Variable

@@ -1,6 +1,6 @@
 package core_java_practice.scenario_based_problems;
 
-import java.util.HashSet;
+import java.util.*;
 
 public class Warehouse {
     public static void rotateArray(int[] arr, int k) {

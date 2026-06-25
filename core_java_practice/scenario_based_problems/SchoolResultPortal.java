@@ -1,6 +1,7 @@
 package core_java_practice.scenario_based_problems;
 import java.io.*;
 import java.util.*;
+import java.util.Scanner;
 
 public class SchoolResultPortal {
     public static void main(String[] args) {

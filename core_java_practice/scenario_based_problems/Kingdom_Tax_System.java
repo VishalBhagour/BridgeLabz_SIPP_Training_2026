@@ -1,6 +1,6 @@
 package core_java_practice.scenario_based_problems;
 
-import java.util.Scanner;
+import java.util.*;
 
 public class Kingdom_Tax_System {
     public static void main(String[] args) {

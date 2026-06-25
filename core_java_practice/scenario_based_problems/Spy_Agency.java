@@ -1,7 +1,6 @@
 package core_java_practice.scenario_based_problems;
 
-import java.util.Arrays;
-import java.util.LinkedHashMap;
+import java.util.*;
 
 public class Spy_Agency {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
 package core_java_practice.scenario_based_problems;
 
-import java.util.*;
+import java.util.Scanner;
 
 class InsufficientFundsException extends Exception {
     public InsufficientFundsException(String message) {
