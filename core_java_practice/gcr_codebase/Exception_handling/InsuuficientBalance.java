@@ -1,5 +1,6 @@
 package core_java_practice.gcr_codebase.Exception_handling;
 
+
 class InsufficientBalanceException extends Exception {
 
     private double balance;

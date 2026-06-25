@@ -1,6 +1,6 @@
 package core_java_practice.gcr_codebase.Exception_handling;
 
-import java.util.Scanner;
+import java.util.*;
 
 public class ArrayOperations {
 

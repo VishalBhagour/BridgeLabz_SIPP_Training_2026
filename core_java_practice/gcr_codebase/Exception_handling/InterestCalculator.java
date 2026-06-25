@@ -1,5 +1,6 @@
 package core_java_practice.gcr_codebase.Exception_handling;
 
+
 public class InterestCalculator {
 
     // Method declares that it may throw an exception

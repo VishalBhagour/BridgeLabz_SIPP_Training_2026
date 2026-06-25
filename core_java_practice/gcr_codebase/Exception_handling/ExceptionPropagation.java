@@ -1,5 +1,7 @@
 package core_java_practice.gcr_codebase.Exception_handling;
 
+
+
 public class ExceptionPropagation {
 
     static void method1() {
