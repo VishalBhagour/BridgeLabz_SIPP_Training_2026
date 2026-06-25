@@ -1,7 +1,6 @@
 package core_java_practice.gcr_codebase.Arrays.level_2;
 
-import java.util.Scanner;
-
+import java.util.*;
 public class StudentGrade2D {
     public static void main(String[] args) {
 

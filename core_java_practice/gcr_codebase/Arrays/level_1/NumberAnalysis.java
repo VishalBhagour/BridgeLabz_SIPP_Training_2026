@@ -1,7 +1,6 @@
 package core_java_practice.gcr_codebase.Arrays.level_1;
 
-import java.util.Scanner;
-
+import java.util.*;
 public class NumberAnalysis {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

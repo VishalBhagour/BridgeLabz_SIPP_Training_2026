@@ -1,6 +1,6 @@
 package core_java_practice.gcr_codebase.Arrays.level_1;
 
-import java.util.Scanner;
+import java.util.*;
 
 public class MultiplicationTable {
     public static void main(String[] args) {

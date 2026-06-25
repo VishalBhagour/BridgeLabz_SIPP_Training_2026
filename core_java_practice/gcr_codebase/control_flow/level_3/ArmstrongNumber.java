@@ -1,7 +1,6 @@
 package core_java_practice.gcr_codebase.control_flow.level_3;
 
-import java.util.Scanner;
-
+import java.util.*;
 public class ArmstrongNumber {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

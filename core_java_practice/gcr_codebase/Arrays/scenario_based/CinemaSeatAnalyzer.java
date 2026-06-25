@@ -1,7 +1,6 @@
 package core_java_practice.gcr_codebase.Arrays.scenario_based;
 
-import java.util.Scanner;
-
+import java.util.*;
 public class CinemaSeatAnalyzer {
 
     public static void main(String[] args) {
