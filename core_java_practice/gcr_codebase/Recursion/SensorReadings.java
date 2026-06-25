@@ -1,3 +1,4 @@
+import java.util.Scanner;
 public class SensorReadings {
 
     public static boolean isIncreasing(int[] arr, int index) {

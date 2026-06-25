@@ -1,3 +1,4 @@
+import java.util.Scanner;
 public class UsernameValidator {
 
     public static boolean isValid(String username,
