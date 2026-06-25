@@ -1,7 +1,7 @@
 package core_java_practice.gcr_codebase.String.scenario_based;
 
 import java.util.Arrays;
-import java.util.Scanner;
+import java.util.*;
 
 public class WordMatchSystem {
 

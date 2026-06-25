@@ -1,7 +1,6 @@
 package core_java_practice.gcr_codebase.String.level_2;
 
-import java.util.Scanner;
-
+import java.util.*;
 public class VotingEligibilityChecker {
 
     public static String[][] checkVoting(int[] ages) {

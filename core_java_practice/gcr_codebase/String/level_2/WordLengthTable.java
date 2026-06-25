@@ -1,7 +1,6 @@
 package core_java_practice.gcr_codebase.String.level_2;
 
-import java.util.Scanner;
-
+import java.util.*;
 public class WordLengthTable {
 
     public static int findLength(String str) {
